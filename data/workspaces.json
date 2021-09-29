@@ -1,0 +1,486 @@
+[
+    {
+        "info": {
+            "title": "Pay Bill",
+            "description": "",
+            "thumbnail": ""
+        },
+        "blocks": [
+            {
+                "name": "command_event",
+                "info": {
+                    "x": 447,
+                    "y": 318,
+                    "z": 2,
+                    "color": "#5a5a5a",
+                    "height": 267,
+                    "width": 759
+                },
+                "inputs": {
+                    "command_name": "ICjKPxGXDt",
+                    "custom_prefix": "zzAO1iooHU",
+                    "command_slowmode": "Yjqlt0qGPr"
+                },
+                "options": {
+                    "command_restriction": "none",
+                    "required_member_permission": "none",
+                    "case_sensitive": "no",
+                    "command_slowmode_restriction": "none"
+                },
+                "outputs": {
+                    "action1": [
+                        "SpfrZlHgZ0"
+                    ],
+                    "action2": [],
+                    "message": [],
+                    "channel": [
+                        "jGpD6G13gm"
+                    ],
+                    "user": [],
+                    "error_message": []
+                }
+            },
+            {
+                "name": "text",
+                "info": {
+                    "x": 98,
+                    "y": 167,
+                    "z": 3,
+                    "color": "#5a5a5a",
+                    "height": 118,
+                    "width": 305
+                },
+                "options": {
+                    "text": "paybill"
+                },
+                "outputs": {
+                    "text": [
+                        "ICjKPxGXDt"
+                    ]
+                }
+            },
+            {
+                "name": "text",
+                "info": {
+                    "x": 1668,
+                    "y": 247,
+                    "z": 5,
+                    "color": "#5a5a5a",
+                    "height": 118,
+                    "width": 305
+                },
+                "options": {
+                    "text": "You can pay in many ways:\n1) Cash\n2) Check\n3) Your mortal soul\n\nHow you pay is up to you (as long as its #3)!"
+                },
+                "outputs": {
+                    "text": [
+                        "8xtBurXkFY"
+                    ]
+                }
+            },
+            {
+                "name": "text",
+                "info": {
+                    "x": 1224,
+                    "y": 191,
+                    "z": 6,
+                    "color": "#5a5a5a",
+                    "height": 118,
+                    "width": 305
+                },
+                "options": {
+                    "text": "How to Pay Debt to EA"
+                },
+                "outputs": {
+                    "text": [
+                        "003wsnnoBl"
+                    ]
+                }
+            },
+            {
+                "name": "send_message",
+                "info": {
+                    "x": 1322,
+                    "y": 639,
+                    "z": 7,
+                    "color": "#5a5a5a",
+                    "height": 237,
+                    "width": 280
+                },
+                "inputs": {
+                    "action": "uMbii4behp",
+                    "channel": "jGpD6G13gm",
+                    "text": "YaXqHCAnhy",
+                    "embed": "a8ydrjJiJK",
+                    "attachment": "Io4qaB1meQ",
+                    "split_message": "1rPLTA42lS"
+                },
+                "outputs": {
+                    "action": [],
+                    "message": []
+                }
+            },
+            {
+                "name": "create_embed_message",
+                "info": {
+                    "x": 1644,
+                    "y": 463,
+                    "z": 8,
+                    "color": "#5a5a5a",
+                    "height": 517,
+                    "width": 340
+                },
+                "inputs": {
+                    "action": "SpfrZlHgZ0",
+                    "color": "EfF6QMnar7",
+                    "thumbnail": "7S0GS4jgjT",
+                    "author_icon": "KcjAcYUkjv",
+                    "author_name": "pUJdlU6byM",
+                    "author_url": "zzlx9x7iQU",
+                    "title": "003wsnnoBl",
+                    "url": "BBVeacHCtH",
+                    "description": "8xtBurXkFY",
+                    "image": "YmQtocqYjJ",
+                    "footer_icon": "WF4k52b8cZ",
+                    "footer_text": "3NpxbaqSHE",
+                    "timestamp": "CmJixChNWR"
+                },
+                "outputs": {
+                    "action": [
+                        "uMbii4behp"
+                    ],
+                    "message_embed": [
+                        "a8ydrjJiJK"
+                    ]
+                }
+            }
+        ],
+        "notes": []
+    },
+    {
+        "info": {
+            "title": "Microtransactions",
+            "description": "yeah....",
+            "thumbnail": ""
+        },
+        "blocks": [
+            {
+                "name": "command_event",
+                "info": {
+                    "x": 447,
+                    "y": 318,
+                    "z": 2,
+                    "color": "#5a5a5a",
+                    "height": 267,
+                    "width": 759
+                },
+                "inputs": {
+                    "command_name": "ICjKPxGXDt",
+                    "custom_prefix": "zzAO1iooHU",
+                    "command_slowmode": "Yjqlt0qGPr"
+                },
+                "options": {
+                    "command_restriction": "none",
+                    "required_member_permission": "none",
+                    "case_sensitive": "no",
+                    "command_slowmode_restriction": "none"
+                },
+                "outputs": {
+                    "action1": [
+                        "SpfrZlHgZ0"
+                    ],
+                    "action2": [],
+                    "message": [],
+                    "channel": [
+                        "jGpD6G13gm"
+                    ],
+                    "user": [],
+                    "error_message": []
+                }
+            },
+            {
+                "name": "text",
+                "info": {
+                    "x": 98,
+                    "y": 167,
+                    "z": 3,
+                    "color": "#5a5a5a",
+                    "height": 118,
+                    "width": 305
+                },
+                "options": {
+                    "text": "shop"
+                },
+                "outputs": {
+                    "text": [
+                        "ICjKPxGXDt"
+                    ]
+                },
+                "inputs": {}
+            },
+            {
+                "name": "text",
+                "info": {
+                    "x": 1668,
+                    "y": 247,
+                    "z": 5,
+                    "color": "#5a5a5a",
+                    "height": 118,
+                    "width": 305
+                },
+                "options": {
+                    "text": "1) 1 useless command - $100.00\n2) \"Hello\" command - $5,000,0000.00\n3) \"Hi\" command - $20,000,000,000.00\n4) Change prefix - $20,000.000\n5) Mute anyone (2 minutes) - $40,000.00\n\nMore to come!"
+                },
+                "outputs": {
+                    "text": [
+                        "8xtBurXkFY"
+                    ]
+                },
+                "inputs": {}
+            },
+            {
+                "name": "text",
+                "info": {
+                    "x": 1224,
+                    "y": 191,
+                    "z": 6,
+                    "color": "#5a5a5a",
+                    "height": 118,
+                    "width": 305
+                },
+                "options": {
+                    "text": "EA Store"
+                },
+                "outputs": {
+                    "text": [
+                        "003wsnnoBl"
+                    ]
+                },
+                "inputs": {}
+            },
+            {
+                "name": "send_message",
+                "info": {
+                    "x": 1322,
+                    "y": 639,
+                    "z": 7,
+                    "color": "#5a5a5a",
+                    "height": 237,
+                    "width": 280
+                },
+                "inputs": {
+                    "action": "uMbii4behp",
+                    "channel": "jGpD6G13gm",
+                    "text": "YaXqHCAnhy",
+                    "embed": "a8ydrjJiJK",
+                    "attachment": "Io4qaB1meQ",
+                    "split_message": "1rPLTA42lS"
+                },
+                "outputs": {
+                    "action": [],
+                    "message": []
+                },
+                "options": {}
+            },
+            {
+                "name": "create_embed_message",
+                "info": {
+                    "x": 1644,
+                    "y": 463,
+                    "z": 8,
+                    "color": "#5a5a5a",
+                    "height": 517,
+                    "width": 340
+                },
+                "inputs": {
+                    "action": "SpfrZlHgZ0",
+                    "color": "EfF6QMnar7",
+                    "thumbnail": "7S0GS4jgjT",
+                    "author_icon": "KcjAcYUkjv",
+                    "author_name": "pUJdlU6byM",
+                    "author_url": "zzlx9x7iQU",
+                    "title": "003wsnnoBl",
+                    "url": "BBVeacHCtH",
+                    "description": "8xtBurXkFY",
+                    "image": "YmQtocqYjJ",
+                    "footer_icon": "WF4k52b8cZ",
+                    "footer_text": "3NpxbaqSHE",
+                    "timestamp": "CmJixChNWR"
+                },
+                "outputs": {
+                    "action": [
+                        "uMbii4behp"
+                    ],
+                    "message_embed": [
+                        "a8ydrjJiJK"
+                    ]
+                },
+                "options": {}
+            }
+        ],
+        "notes": []
+    },
+    {
+        "info": {
+            "title": "Bill",
+            "description": "$5000",
+            "thumbnail": ""
+        },
+        "blocks": [
+            {
+                "name": "command_event",
+                "info": {
+                    "x": 447,
+                    "y": 318,
+                    "z": 2,
+                    "color": "#5a5a5a",
+                    "height": 267,
+                    "width": 759
+                },
+                "inputs": {
+                    "command_name": "ICjKPxGXDt",
+                    "custom_prefix": "zzAO1iooHU",
+                    "command_slowmode": "Yjqlt0qGPr"
+                },
+                "options": {
+                    "command_restriction": "none",
+                    "required_member_permission": "none",
+                    "case_sensitive": "no",
+                    "command_slowmode_restriction": "none"
+                },
+                "outputs": {
+                    "action1": [
+                        "SpfrZlHgZ0"
+                    ],
+                    "action2": [],
+                    "message": [],
+                    "channel": [
+                        "jGpD6G13gm"
+                    ],
+                    "user": [],
+                    "error_message": []
+                }
+            },
+            {
+                "name": "text",
+                "info": {
+                    "x": 98,
+                    "y": 167,
+                    "z": 3,
+                    "color": "#5a5a5a",
+                    "height": 118,
+                    "width": 305
+                },
+                "options": {
+                    "text": "bill420"
+                },
+                "outputs": {
+                    "text": [
+                        "ICjKPxGXDt"
+                    ]
+                },
+                "inputs": {}
+            },
+            {
+                "name": "text",
+                "info": {
+                    "x": 1668,
+                    "y": 247,
+                    "z": 5,
+                    "color": "#5a5a5a",
+                    "height": 118,
+                    "width": 305
+                },
+                "options": {
+                    "text": "Debt added: $5,000.00\nCause: 1 command added\n\nTotal Debt: ∞"
+                },
+                "outputs": {
+                    "text": [
+                        "8xtBurXkFY"
+                    ]
+                },
+                "inputs": {}
+            },
+            {
+                "name": "text",
+                "info": {
+                    "x": 1224,
+                    "y": 191,
+                    "z": 6,
+                    "color": "#5a5a5a",
+                    "height": 118,
+                    "width": 305
+                },
+                "options": {
+                    "text": "Bill #420"
+                },
+                "outputs": {
+                    "text": [
+                        "003wsnnoBl"
+                    ]
+                },
+                "inputs": {}
+            },
+            {
+                "name": "send_message",
+                "info": {
+                    "x": 1322,
+                    "y": 639,
+                    "z": 7,
+                    "color": "#5a5a5a",
+                    "height": 237,
+                    "width": 280
+                },
+                "inputs": {
+                    "action": "uMbii4behp",
+                    "channel": "jGpD6G13gm",
+                    "text": "YaXqHCAnhy",
+                    "embed": "a8ydrjJiJK",
+                    "attachment": "Io4qaB1meQ",
+                    "split_message": "1rPLTA42lS"
+                },
+                "outputs": {
+                    "action": [],
+                    "message": []
+                },
+                "options": {}
+            },
+            {
+                "name": "create_embed_message",
+                "info": {
+                    "x": 1644,
+                    "y": 463,
+                    "z": 8,
+                    "color": "#5a5a5a",
+                    "height": 517,
+                    "width": 340
+                },
+                "inputs": {
+                    "action": "SpfrZlHgZ0",
+                    "color": "EfF6QMnar7",
+                    "thumbnail": "7S0GS4jgjT",
+                    "author_icon": "KcjAcYUkjv",
+                    "author_name": "pUJdlU6byM",
+                    "author_url": "zzlx9x7iQU",
+                    "title": "003wsnnoBl",
+                    "url": "BBVeacHCtH",
+                    "description": "8xtBurXkFY",
+                    "image": "YmQtocqYjJ",
+                    "footer_icon": "WF4k52b8cZ",
+                    "footer_text": "3NpxbaqSHE",
+                    "timestamp": "CmJixChNWR"
+                },
+                "outputs": {
+                    "action": [
+                        "uMbii4behp"
+                    ],
+                    "message_embed": [
+                        "a8ydrjJiJK"
+                    ]
+                },
+                "options": {}
+            }
+        ],
+        "notes": []
+    }
+]
